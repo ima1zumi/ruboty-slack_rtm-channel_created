@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    ruboty-slack_rtm-channel_created (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.1.0)
+
+PLATFORMS
+  ruby
+  x86_64-darwin-21
+
+DEPENDENCIES
+  rake (~> 13.0)
+  ruboty-slack_rtm-channel_created!
+
+BUNDLED WITH
+   2.5.3
